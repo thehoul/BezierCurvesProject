@@ -2,7 +2,7 @@
 Small little cute program to visualize nth degree Bezier curves
 
 ## Install 
-**Requires Windows** sorry linux... 
+**Requires Windows**, sorry linux... 
 1. Run `git clone `
 2. In the folder downloaded, run `BezierCurves.exe`
 
