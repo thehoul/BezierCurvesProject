@@ -1,2 +1,2 @@
 # BezierCurvesProject
-Small little cute program to visualy nth degree Bezier curves
+Small little cute program to visualize nth degree Bezier curves
